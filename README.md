@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>python software developer</strong><br> 5+ years of coding experience <br> 
-  Focused on building efficient, well-structured, and reliable software solutions
+  Focused on building efficient, well-structured, and reliable software solutions<br>
+  <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
 ---
