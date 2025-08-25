@@ -1,8 +1,8 @@
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there!</h1>
 
 <p align="center">
   <strong>python software developer</strong><br> 5+ years of coding experience <br> 
-  Focused on building efficient, well-structured, and reliable software solutions<br>
+  Focused on building efficient, well-structured, and reliable software solutions (даже я таких слов не знаю)<br>
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
@@ -57,3 +57,9 @@ Based in **Kyrgyzstan** and **Russia**
 
 - **Telegram:** [@nicknamer091](https://t.me/nicknamer091)  
 - **Email:** nta16022013@gmail.com
+
+## Achievements
+My little GitHub achievement list
+ - Maintainer of project with 1 star
+ - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
+ - Has 5+ opensource projects
