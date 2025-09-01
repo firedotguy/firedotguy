@@ -10,7 +10,7 @@
 
 ## 📊 Hackatime stats
 
-[mbr yr hr?](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Statistics&layout=compact&cache_seconds=0&langs_count=7)"
+![mbr yr hr?](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Statistics&layout=compact&cache_seconds=0&langs_count=7)
 > Hackatime stats not working. I created [issue](https://github.com/hackclub/hackatime/issues/502) about it, please help to notify hackatime maintainers about this.
 
 ---
