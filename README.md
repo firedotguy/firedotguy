@@ -56,6 +56,6 @@ Based in **Kyrgyzstan** and **Russia**
 
 ## Achievements
 My little GitHub achievement list
- - Maintainer of project with 1 star
+ - Maintainer of 2 projects with 2 stars
  - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
  - Has 5+ opensource projects
