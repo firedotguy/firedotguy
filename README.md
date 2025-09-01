@@ -1,8 +1,7 @@
 <h1 align="center">Hi there!</h1>
 
 <p align="center">
-  <strong>python software developer</strong><br> 5+ years of coding experience <br> 
-  Focused on building efficient, well-structured, and reliable software solutions (даже я таких слов не знаю)<br>
+  <strong>python software developer</strong><br> 5+ years of coding experience (coding from 7 years old) <br> 
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
@@ -33,17 +32,6 @@
   <img src="https://img.shields.io/badge/Textual-303030?style=flat" />
 </p>
 
----
-
-## 📄 Professional Focus
-
-- Development of automation tools and desktop utilities  
-- Building robust Python-based GUIs and backend services  
-- Integration with APIs, databases, and third-party services  
-- Continuous learning and applying modern development practices  
-
----
-
 ## 🌍 Location
 Based in **Kyrgyzstan** and **Russia**
 
@@ -51,7 +39,7 @@ Based in **Kyrgyzstan** and **Russia**
 
 ## 📫 Contact
 
-- **Telegram:** [@nicknamer091](https://t.me/nicknamer091)  
+- **Telegram:** [@firedotguy](https://t.me/firedotguy)  
 - **Email:** nta16022013@gmail.com
 
 ## Achievements
