@@ -16,6 +16,7 @@
     alt="Hackatime stats"
   />
 </p>
+> Hackatime stats not working. I created [issue](https://github.com/hackclub/hackatime/issues/502) about it, please help to notify hackatime maintainers about this.
 
 ---
 
