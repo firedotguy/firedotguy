@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!</h1>
 
 <p align="center">
-  <strong>python software developer</strong><br> 5+ years of coding experience (coding from 7 years old) <br> 
+  <strong>python software developer</strong><br> 5+ years of coding experience (from 7 years old) <br> 
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
@@ -46,4 +46,5 @@ Based in **Kyrgyzstan** and **Russia**
 My little GitHub achievement list
  - Maintainer of 2 projects with 2 stars
  - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
- - Has 5+ opensource projects
+ - Contibutor to [textual-image](https://github.com/lnqs/textual-image)
+ - Has 6 opensource projects
