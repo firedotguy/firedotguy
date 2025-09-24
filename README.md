@@ -1,15 +1,20 @@
-<h1 align="center">Hi there!</h1>
+<h2 align="center">welcome to FDG profile</h2>
 
 <p align="center">
   <strong>python software developer</strong><br> 5+ years of coding experience (from 7 years old) <br> 
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
+
+ - Contrirutor to [rovr](https://github.com/NSPC911/rovr)
+ - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
+ - Contibutor to [textual-image](https://github.com/lnqs/textual-image)
+
 ---
 
 ## 📊 Hackatime stats
 
-![mbr yr hr?](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Statistics&layout=compact&cache_seconds=0&langs_count=7)
+![hackatime stat](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Statistics&layout=compact&cache_seconds=0&langs_count=7)
 > Hackatime stats not working. I created [issue](https://github.com/hackclub/hackatime/issues/502) about it, please help to notify hackatime maintainers about this.
 
 ---
@@ -32,19 +37,11 @@
   <img src="https://img.shields.io/badge/Textual-303030?style=flat" />
 </p>
 
-## 🌍 Location
-Based in **Kyrgyzstan** and **Russia**
-
----
 
 ## 📫 Contact
 
 - **Telegram:** [@firedotguy](https://t.me/firedotguy)  
 - **Email:** nta16022013@gmail.com
+- **Discord:** firedotguy
 
-## Achievements
-My little GitHub achievement list
- - Maintainer of 2 projects with 2 stars
- - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
- - Contibutor to [textual-image](https://github.com/lnqs/textual-image)
- - Has 6 opensource projects
+<sub>I am 12 years old btw</sub>
