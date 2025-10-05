@@ -1,7 +1,7 @@
 <h2 align="center">welcome to FDG profile</h2>
 
 <p align="center">
-  <strong>python software developer</strong><br> 5+ years of coding experience (from 7 years old) <br> 
+  <strong>python software developer</strong><br> 5+ years of coding experience <br> 
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
