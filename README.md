@@ -11,6 +11,11 @@
  - Contibutor to [textual-image](https://github.com/lnqs/textual-image)
 
 ---
+> [!WARNING]
+> [CMD-visualizer](https://github.com/firedotguy/cmd-visualizer) and [pyxend](https://github.com/firedotguy/pyxend) are archived from 01.01.26.  
+> NTphone and pygdrivedb are no longer available.
+
+---
 
 ## 📊 Hackatime stats
 
