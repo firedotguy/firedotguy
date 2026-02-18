@@ -48,4 +48,4 @@
 - **Email:** nta16022013@gmail.com
 - **Discord:** firedotguy
 
-<sub>I am 12 years old btw</sub>
+<sub>I am 13 years old btw</sub>
