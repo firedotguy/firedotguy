@@ -1,29 +1,33 @@
-<h2 align="center">welcome to FDG profile</h2>
-
 <p align="center">
   <strong>python software developer</strong><br> 5+ years of coding experience <br> 
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
-
+<!--
  - Contrirutor to [rovr](https://github.com/NSPC911/rovr)
  - Contributor to [Textual-EnGlyph](https://github.com/friscorose/textual-EnGlyph/tree/main)
  - Contibutor to [textual-image](https://github.com/lnqs/textual-image)
-
+-->
 ---
+<!--
 > [!WARNING]
 > [CMD-visualizer](https://github.com/firedotguy/cmd-visualizer), [pyxend](https://github.com/firedotguy/pyxend) and [textual-video](https://github.com/firedotguy/textual-video) are archived from 01.01.26.  
 > NTphone and pygdrivedb are no longer available.
+-->
+<p align="center">
+  <img src="https://github.com/firedotguy/firedotguy/blob/main/fires-resized.png?raw=true" width="400px" alt="early banner sketch"><br>
+  <i>!!! new nick soon</i>
+</p>
 
 ---
 
-## 📊 Hackatime stats
+## Hackatime stats
 
-![hackatime stat](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Statistics&layout=compact&cache_seconds=0&langs_count=7)
+![hackatime stat](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+stats&layout=compact&cache_seconds=0&langs_count=7)
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 **Languages**  
 <p>
@@ -42,10 +46,11 @@
 </p>
 
 
-## 📫 Contact
+## Contact
 
 - **Telegram:** [@firedotguy](https://t.me/firedotguy)  
 - **Email:** nta16022013@gmail.com
 - **Discord:** firedotguy
+- **ИТД:** @fdg or @itd_sdk
 
-<sub>I am 13 years old btw</sub>
+<sub>I am 13 y.o btw</sub>
